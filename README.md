@@ -42,4 +42,4 @@ My current goal is to expand my knowledge and improve further under full stack u
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutaru99&count_private=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaru99&hide=php,blade&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaru99&hide=php&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
