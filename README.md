@@ -10,6 +10,7 @@ My current goal is to expand my knowledge and improve further under full stack u
 - Content Delivery Networks (CDN)
 - DevOps (Nginx, DigitalOcean infrastructure, CI/CD)
 - SEO (Google's Digital Garage cerfication)
+- Accessibility and User Experience
 
 ----
 
