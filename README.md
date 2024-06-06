@@ -6,6 +6,7 @@ My current goal is to expand my knowledge and improve further under full stack u
 ----
 
 **Work experiences / fields of interests:**
+- Love doing Front End !!
 - Fullstack Development (MEVN)
 - Content Delivery Networks (CDN)
 - DevOps (Nginx, DigitalOcean infrastructure, CI/CD)
