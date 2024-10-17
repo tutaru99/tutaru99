@@ -1,17 +1,15 @@
 ### Hi there, I'm Simas! 👋
 
-Business English, Multimedia design and Web development graduate. In my current position I'm a Front-end developer @Novicell.
-My current goal is to expand my knowledge and improve further under full stack umbrella.
+With degrees in English and Web Development, I bring a diverse educational background to my role as a Web Developer @Novicell. I’m passionate about crafting engaging digital experiences and am currently focused on expanding my skill set.
 
 ----
 
-**Work experiences / fields of interests:**
-- Love doing Front End !!
-- Fullstack Development (MEVN)
-- Content Delivery Networks (CDN)
-- DevOps (Nginx, DigitalOcean infrastructure, CI/CD)
-- SEO (Google's Digital Garage cerfication)
-- Accessibility and User Experience
+**Areas of Expertise & Interests:**
+•	Front-End Development: Passionate about creating responsive, interactive, and visually appealing web interfaces.
+•	Full-Stack Development: Experienced with the MEVN stack (MongoDB, Express, Vue.js, Node.js), and always exploring new technologies to expand my skill set.
+•	DevOps & Infrastructure: Hands-on experience with Nginx, DigitalOcean, and implementing CI/CD pipelines to streamline development and deployment processes.
+•	SEO: Certified by Google’s Digital Garage, with a strong focus on improving search engine rankings, digital visibility, and using best practices.
+•	Accessibility & User Experience: Committed to designing inclusive and user-friendly web experiences that cater to all users.
 
 ----
 
@@ -33,10 +31,14 @@ My current goal is to expand my knowledge and improve further under full stack u
   <li>
     📧 Contact me at <a href="mailto:simas.raudonis@gmail.com">simas.raudonis@gmail.com</a>
   </li>
-    <li>
-    🌐 Checkout my <a href="https://tutaru99.github.io" target="_blank">Portfolio</a>
+  <li>
+    🌐 Check out my <a href="https://tutaru99.github.io" target="_blank">Portfolio</a>
   </li>
- </ul>
+  <li>
+    💼 Connect with me on <a href="https://www.linkedin.com/in/simas-raudonis" target="_blank">LinkedIn</a>
+  </li>
+</ul>
+
  
 ----
     
