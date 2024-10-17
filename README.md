@@ -5,11 +5,21 @@ With degrees in English and Web Development, I bring a diverse educational backg
 ----
 
 **Areas of Expertise & Interests:**
-•	Front-End Development: Passionate about creating responsive, interactive, and visually appealing web interfaces.
-•	Full-Stack Development: Experienced with the MEVN stack (MongoDB, Express, Vue.js, Node.js), and always exploring new technologies to expand my skill set.
-•	DevOps & Infrastructure: Hands-on experience with Nginx, DigitalOcean, and implementing CI/CD pipelines to streamline development and deployment processes.
-•	SEO: Certified by Google’s Digital Garage, with a strong focus on improving search engine rankings, digital visibility, and using best practices.
-•	Accessibility & User Experience: Committed to designing inclusive and user-friendly web experiences that cater to all users.
+<ul>
+  <li>
+  Front-End Development: Passionate about creating responsive, interactive, and visually appealing web interfaces and challenging designs.
+  </li>
+  <li>
+  Full-Stack Development: Experienced with the MEVN stack (MongoDB, Express, Vue.js/Nuxt, Node.js), and always exploring new technologies to expand my skill set.
+  </li>
+    <li>
+  	DevOps & Infrastructure: Hands-on experience with Nginx, DigitalOcean & Platform.sh, and implementing CI/CD pipelines to streamline development and deployment processes.
+  </li>  <li>
+  	SEO: Certified by Google’s Digital Garage, with a strong focus on improving search engine rankings, digital visibility, and using best practices.
+  </li>  <li>
+Accessibility & User Experience: Committed to designing inclusive and user-friendly web experiences that cater to all users.
+  </li>
+</ul>
 
 ----
 
